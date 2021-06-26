@@ -1,8 +1,5 @@
 /**
-* Template Name: Gp - v4.3.0
-* Template URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+
 */
 
 /*--------------------------------------------------------------
@@ -427,7 +424,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #ffc451;
 }
 
-#hero h2 {
+#hero p {
   color: rgba(255, 255, 255, 0.9);
   margin: 10px 0 0 0;
   font-size: 24px;
